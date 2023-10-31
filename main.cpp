@@ -12,7 +12,7 @@
  * The user can press 5 to quit the program.
 
  * Class: CS 141, Fall 2023
- * System: ZyBook Lab *
+ * System: CLion IDE *
  * @author Antwon Walls
  * @version October 15, 2023
  * *******/
